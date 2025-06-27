@@ -1,0 +1,74 @@
+{
+  "autosave": true,
+  "background": false,
+  "colors": true,
+  "randomx": {
+    "1gb-pages": false,
+    "rdmsr": true,
+    "wrmsr": true,
+    "numa": false
+  },
+  "cpu": {
+    "enabled": true,
+    "max-threads-hint": 100
+  },
+  "donate-level": 1,
+  "log-file": null,
+  "pools": [
+    {
+      "url": "randomxmonero.jp.nicehash.com:3380",
+      "user": "NHbYe81WXtnQaxgTmsaq2eZSsupWsYZ6nFEu.server2",
+      "pass": "x",
+      "algo": "rx/0",
+      "keepalive": true,
+      "tls": false
+    }
+  ],
+  "print-time": 30,
+  "retries": 5,
+  "retry-pause": 5,
+  "syslog": false,
+  "threads": [
+    { "index": 0 },
+    { "index": 1 },
+    { "index": 2 },
+    { "index": 3 }
+  ]
+}
+{
+  "autosave": true,
+  "background": false,
+  "colors": true,
+  "randomx": {
+    "1gb-pages": false,
+    "rdmsr": true,
+    "wrmsr": true,
+    "numa": false
+  },
+  "cpu": {
+    "enabled": true,
+    "max-threads-hint": 100
+  },
+  "donate-level": 0,
+  "log-file": null,
+  "pools": [
+    {
+      "url": "randomxmonero.jp.nicehash.com:3380",
+      "user": "NHbYe81WXtnQaxgTmsaq2eZSsupWsYZ6nFEu.server2",
+      "pass": "x",
+      "algo": "rx/0",
+      "keepalive": true,
+      "tls": false
+    }
+  ],
+  "print-time": 30,
+  "retries": 5,
+  "retry-pause": 5,
+  "syslog": false,
+  "threads": [
+    { "index": 0 },
+    { "index": 1 },
+    { "index": 2 },
+    { "index": 3 }
+  ]
+}
